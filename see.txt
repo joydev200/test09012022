@@ -1,0 +1,9 @@
+https://medium.com/saarthi-ai/ec2apachedjango-838e3f6014ab
+
+
+https://www.e2enetworks.com/help/knowledge-base/how-to-install-django-on-ubuntu-18-04-16-04-lts/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-18-044
+
+https://www.digitalocean.com/community/tutorials
+
